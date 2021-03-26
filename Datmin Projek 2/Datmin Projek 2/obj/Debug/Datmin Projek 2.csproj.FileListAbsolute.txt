@@ -1,0 +1,6 @@
+D:\Datmin Projek 2\Datmin Projek 2\bin\Debug\Datmin Projek 2.exe.config
+D:\Datmin Projek 2\Datmin Projek 2\bin\Debug\Datmin Projek 2.exe
+D:\Datmin Projek 2\Datmin Projek 2\bin\Debug\Datmin Projek 2.pdb
+D:\Datmin Projek 2\Datmin Projek 2\obj\Debug\Datmin Projek 2.csprojResolveAssemblyReference.cache
+D:\Datmin Projek 2\Datmin Projek 2\obj\Debug\Datmin Projek 2.exe
+D:\Datmin Projek 2\Datmin Projek 2\obj\Debug\Datmin Projek 2.pdb
